@@ -5,7 +5,7 @@ For now it supports Whole Circle Bearing. But I am also planning to add reduced 
 
 ## Motivation
 
-As currently I am learning python and my educational background is in Water Resource Engineering, I thought to combine my educational background knowledge with python
+As currently I am learning python and my educational background is in Water Resource Engineering, I was going through my Surveying courses. So that's when I thought to combine my educational background knowledge with python
 and make a simple tool. So here this is the product.
 
 ## What I've Practised through this project
