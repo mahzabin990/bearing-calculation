@@ -8,7 +8,7 @@ For now it supports Whole Circle Bearing. But I am also planning to add reduced 
 As currently I am learning python and my educational background is in Water Resource Engineering, I thought to combine my educational background knowledge with python
 and make a simple tool. So here this is the product.
 
-## What I've Learned through this project
+## What I've Practised through this project
 
 * Object Oriented Programming with method overloading. see [wcb.py](./wcb.py) and [parse_csv.py](./parse_csv.py) files.
 * csv module
