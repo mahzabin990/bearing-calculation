@@ -17,6 +17,7 @@ and make a simple tool. So here this is the product.
 * dictionary
 * list
 * documenting functions and classes
+* basic git and github operations
 
 ## How to use the program
 
