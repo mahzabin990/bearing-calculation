@@ -1,6 +1,6 @@
 # bearing-calculation
 
-This is a program that converts forward bearing to backward bearing. [definitions](https://esenotes.com/fore-bearing-back-bearing-declination-angle-of-dip/#:~:text=Bearing%20measured%20from%20one%20station,a%20difference%20of%20180%C2%B0.)
+This is a program that converts forward bearing to backward bearing. [definitions](https://esenotes.com/fore-bearing-back-bearing-declination-angle-of-dip/#:~:text=Bearing%20measured%20from%20one%20station,a%20difference%20of%20180%C2%B0.) <br>
 For now it supports Whole Circle Bearing. But I am also planning to add reduced bearing soon!
 
 ## Motivation
