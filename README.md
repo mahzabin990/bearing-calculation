@@ -29,3 +29,5 @@ Now simply run:
 python main.py
 ```
 This will generate a file called `solution.csv`. with an additional column that contains back bearings of each row.
+
+<br>Happy coding
